@@ -1,0 +1,3 @@
+C:/Users/janso/Desktop/ADS/2o semestre/exercicios clion2sem/exmplo_matrizes_string/cmake-build-debug/CMakeFiles/exmplo_matrizes_string.dir
+C:/Users/janso/Desktop/ADS/2o semestre/exercicios clion2sem/exmplo_matrizes_string/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/janso/Desktop/ADS/2o semestre/exercicios clion2sem/exmplo_matrizes_string/cmake-build-debug/CMakeFiles/rebuild_cache.dir

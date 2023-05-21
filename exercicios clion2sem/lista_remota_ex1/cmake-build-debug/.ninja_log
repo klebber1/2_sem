@@ -1,0 +1,21 @@
+# ninja log v5
+1	758	7011149264667961	CMakeFiles/lista_remota_ex1.dir/main.c.obj	1d80011b5cfaf40b
+759	1291	7011149269959113	lista_remota_ex1.exe	7b5fbc2b84610c3f
+3	83	7011149470391153	CMakeFiles/lista_remota_ex1.dir/main.c.obj	1d80011b5cfaf40b
+84	202	7011149471526237	lista_remota_ex1.exe	7b5fbc2b84610c3f
+1	73	7011149694540554	CMakeFiles/lista_remota_ex1.dir/main.c.obj	1d80011b5cfaf40b
+73	179	7011149695548359	lista_remota_ex1.exe	7b5fbc2b84610c3f
+2	82	7011151390192044	CMakeFiles/lista_remota_ex1.dir/main.c.obj	1d80011b5cfaf40b
+82	190	7011151391220349	lista_remota_ex1.exe	7b5fbc2b84610c3f
+3	70	7011151790715164	CMakeFiles/lista_remota_ex1.dir/main.c.obj	1d80011b5cfaf40b
+70	177	7011151791723875	lista_remota_ex1.exe	7b5fbc2b84610c3f
+2	71	7011152117366522	CMakeFiles/lista_remota_ex1.dir/main.c.obj	1d80011b5cfaf40b
+71	217	7011152118775330	lista_remota_ex1.exe	7b5fbc2b84610c3f
+1	63	7011152305865095	CMakeFiles/lista_remota_ex1.dir/main.c.obj	1d80011b5cfaf40b
+64	176	7011152306945924	lista_remota_ex1.exe	7b5fbc2b84610c3f
+2	71	7011153467457532	CMakeFiles/lista_remota_ex1.dir/main.c.obj	1d80011b5cfaf40b
+71	180	7011153468504735	lista_remota_ex1.exe	7b5fbc2b84610c3f
+3	70	7011153754808256	CMakeFiles/lista_remota_ex1.dir/main.c.obj	1d80011b5cfaf40b
+70	184	7011153755912355	lista_remota_ex1.exe	7b5fbc2b84610c3f
+1	67	7011153950726036	CMakeFiles/lista_remota_ex1.dir/main.c.obj	1d80011b5cfaf40b
+67	172	7011153951735834	lista_remota_ex1.exe	7b5fbc2b84610c3f

@@ -1,0 +1,17 @@
+# ninja log v5
+1	1282	7027960438789221	CMakeFiles/triangular_superior.dir/main.c.obj	1da06a570d02064d
+1287	2071	7027960446536953	triangular_superior.exe	d62f8a166898b879
+19	318	7027976240775562	CMakeFiles/triangular_superior.dir/main.c.obj	1da06a570d02064d
+319	620	7027976243733137	triangular_superior.exe	d62f8a166898b879
+8	359	7027977036387215	CMakeFiles/triangular_superior.dir/main.c.obj	1da06a570d02064d
+361	935	7027977042081176	triangular_superior.exe	d62f8a166898b879
+4	508	7027985654560260	CMakeFiles/triangular_superior.dir/main.c.obj	1da06a570d02064d
+4	505	7027987666727978	CMakeFiles/triangular_superior.dir/main.c.obj	1da06a570d02064d
+4	404	7027989833629748	CMakeFiles/triangular_superior.dir/main.c.obj	1da06a570d02064d
+6	162	7027990148320323	CMakeFiles/triangular_superior.dir/main.c.obj	1da06a570d02064d
+5	326	7027990488472496	CMakeFiles/triangular_superior.dir/main.c.obj	1da06a570d02064d
+4	117	7027991064470420	CMakeFiles/triangular_superior.dir/main.c.obj	1da06a570d02064d
+3	115	7027991623462785	CMakeFiles/triangular_superior.dir/main.c.obj	1da06a570d02064d
+6	309	7027991877885476	CMakeFiles/triangular_superior.dir/main.c.obj	1da06a570d02064d
+3	368	7027992638481003	CMakeFiles/triangular_superior.dir/main.c.obj	1da06a570d02064d
+2	404	7027993068728361	CMakeFiles/triangular_superior.dir/main.c.obj	1da06a570d02064d

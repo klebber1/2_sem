@@ -1,0 +1,3 @@
+C:/Users/janso/Desktop/ADS/2o semestre/exercicios clion2sem/matrz_quadrada/cmake-build-debug/CMakeFiles/matrz_quadrada.dir
+C:/Users/janso/Desktop/ADS/2o semestre/exercicios clion2sem/matrz_quadrada/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/janso/Desktop/ADS/2o semestre/exercicios clion2sem/matrz_quadrada/cmake-build-debug/CMakeFiles/rebuild_cache.dir

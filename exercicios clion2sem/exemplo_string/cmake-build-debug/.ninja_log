@@ -1,0 +1,9 @@
+# ninja log v5
+1	370	7022263969441212	CMakeFiles/exemplo_string.dir/main.c.obj	1677709b886054fc
+371	919	7022263974782507	exemplo_string.exe	2ae462fd3376f53b
+30	215	7022264202816555	CMakeFiles/exemplo_string.dir/main.c.obj	1677709b886054fc
+217	552	7022264206114209	exemplo_string.exe	2ae462fd3376f53b
+4	144	7022266257794375	CMakeFiles/exemplo_string.dir/main.c.obj	1677709b886054fc
+144	355	7022266259821788	exemplo_string.exe	2ae462fd3376f53b
+4	120	7022266685325023	CMakeFiles/exemplo_string.dir/main.c.obj	1677709b886054fc
+121	416	7022266688118485	exemplo_string.exe	2ae462fd3376f53b

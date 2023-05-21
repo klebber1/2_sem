@@ -1,0 +1,9 @@
+# ninja log v5
+0	124	7011600947721640	CMakeFiles/lista_remota_ex4.dir/main.c.obj	bdde739b8a7f04aa
+125	379	7011600950219588	lista_remota_ex4.exe	13cb3845301e328e
+2	604	7011606762327837	CMakeFiles/lista_remota_ex4.dir/main.c.obj	bdde739b8a7f04aa
+605	1347	7011606769698395	lista_remota_ex4.exe	13cb3845301e328e
+1	64	7011607837105181	CMakeFiles/lista_remota_ex4.dir/main.c.obj	bdde739b8a7f04aa
+64	183	7011607838234728	lista_remota_ex4.exe	13cb3845301e328e
+1	115	7011610624449844	CMakeFiles/lista_remota_ex4.dir/main.c.obj	bdde739b8a7f04aa
+115	239	7011610625642232	lista_remota_ex4.exe	13cb3845301e328e

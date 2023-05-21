@@ -1,0 +1,27 @@
+# ninja log v5
+1	392	7027881752488568	CMakeFiles/lista_prova_ex2.dir/main.c.obj	e0fab988dc3dd093
+414	738	7027881755917912	lista_prova_ex2.exe	4c77efd6b941bfd8
+5	246	7027882803147750	CMakeFiles/lista_prova_ex2.dir/main.c.obj	e0fab988dc3dd093
+247	513	7027882805794112	lista_prova_ex2.exe	4c77efd6b941bfd8
+3	257	7027887183615977	CMakeFiles/lista_prova_ex2.dir/main.c.obj	e0fab988dc3dd093
+258	449	7027887185524067	lista_prova_ex2.exe	4c77efd6b941bfd8
+1	77	7027887924554753	CMakeFiles/lista_prova_ex2.dir/main.c.obj	e0fab988dc3dd093
+77	186	7027887925613283	lista_prova_ex2.exe	4c77efd6b941bfd8
+2	76	7027890412940145	CMakeFiles/lista_prova_ex2.dir/main.c.obj	e0fab988dc3dd093
+87	201	7027890414139652	lista_prova_ex2.exe	4c77efd6b941bfd8
+1	78	7027894078137923	CMakeFiles/lista_prova_ex2.dir/main.c.obj	e0fab988dc3dd093
+79	180	7027894079113992	lista_prova_ex2.exe	4c77efd6b941bfd8
+1	75	7027897955807749	CMakeFiles/lista_prova_ex2.dir/main.c.obj	e0fab988dc3dd093
+75	181	7027897956830434	lista_prova_ex2.exe	4c77efd6b941bfd8
+1	122	7027898613818526	CMakeFiles/lista_prova_ex2.dir/main.c.obj	e0fab988dc3dd093
+122	235	7027898614923960	lista_prova_ex2.exe	4c77efd6b941bfd8
+1	74	7027898925038128	CMakeFiles/lista_prova_ex2.dir/main.c.obj	e0fab988dc3dd093
+75	185	7027898926103944	lista_prova_ex2.exe	4c77efd6b941bfd8
+2	79	7027900820664394	CMakeFiles/lista_prova_ex2.dir/main.c.obj	e0fab988dc3dd093
+79	181	7027900821646519	lista_prova_ex2.exe	4c77efd6b941bfd8
+3	482	7028016694121703	CMakeFiles/lista_prova_ex2.dir/main.c.obj	e0fab988dc3dd093
+483	875	7028016697927961	lista_prova_ex2.exe	4c77efd6b941bfd8
+3	173	7028018937278623	CMakeFiles/lista_prova_ex2.dir/main.c.obj	e0fab988dc3dd093
+174	398	7028018939463365	lista_prova_ex2.exe	4c77efd6b941bfd8
+4	127	7028022896006500	CMakeFiles/lista_prova_ex2.dir/main.c.obj	e0fab988dc3dd093
+128	309	7028022897767024	lista_prova_ex2.exe	4c77efd6b941bfd8

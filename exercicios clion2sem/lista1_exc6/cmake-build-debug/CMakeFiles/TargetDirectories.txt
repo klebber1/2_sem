@@ -1,0 +1,3 @@
+C:/Users/janso/Desktop/ADS/2o semestre/exercicios clion2sem/lista1_exc6/cmake-build-debug/CMakeFiles/lista1_exc6.dir
+C:/Users/janso/Desktop/ADS/2o semestre/exercicios clion2sem/lista1_exc6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/janso/Desktop/ADS/2o semestre/exercicios clion2sem/lista1_exc6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

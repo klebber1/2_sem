@@ -1,0 +1,3 @@
+C:/Users/janso/Desktop/ADS/2o semestre/exercicios clion2sem/fatoril_recursivo/cmake-build-debug/CMakeFiles/fatoril_recursivo.dir
+C:/Users/janso/Desktop/ADS/2o semestre/exercicios clion2sem/fatoril_recursivo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/janso/Desktop/ADS/2o semestre/exercicios clion2sem/fatoril_recursivo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

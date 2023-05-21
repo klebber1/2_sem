@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(lista_prova_ex13 C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(lista_prova_ex13 main.c)

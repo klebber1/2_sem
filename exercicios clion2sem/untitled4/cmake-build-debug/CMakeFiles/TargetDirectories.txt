@@ -1,0 +1,3 @@
+C:/Users/Kleber/CLionProjects/exercicios clion2sem/untitled4/cmake-build-debug/CMakeFiles/untitled4.dir
+C:/Users/Kleber/CLionProjects/exercicios clion2sem/untitled4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kleber/CLionProjects/exercicios clion2sem/untitled4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/janso/CLionProjects/2sem_mat4while/cmake-build-debug/CMakeFiles/2sem_mat4while.dir
+C:/Users/janso/CLionProjects/2sem_mat4while/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/janso/CLionProjects/2sem_mat4while/cmake-build-debug/CMakeFiles/rebuild_cache.dir

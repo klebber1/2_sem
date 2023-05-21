@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\janso\CLionProjects\exercicios clion2sem\aula_08_05_23 Select CMakeLists.txt
