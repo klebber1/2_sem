@@ -1,0 +1,17 @@
+## Aula 20 Março - Lista
+
+- [ ]  Correção da Lista e revisão de conceitos até estrutura de repetição
+- [ ]  Comentários para os próximos encontros (online ou presencial)
+
+Mais exercícios para prática
+
+1. Escreva um programa que use um loop for para calcular a soma dos primeiros N números naturais, onde N é um número inteiro fornecido pelo usuário. [N>1]
+2. Escreva um programa que use um loop while para imprimir os primeiros 10 números da série Fibonacci. [Se não souber o que é a série, pesquise sobre ela]
+3. Escreva um programa que leia um número inteiro e calcule seu fatorial usando um loop do-while.
+4. Escreva um programa que leia 5 números inteiros e encontre o menor deles usando um loop for e if.
+5. Escreva um programa que use um loop for para imprimir a tabuada de um número inteiro fornecido pelo usuário.
+6. Escreva um programa que use um switch para implementar um menu simples com as opções: adição, subtração, multiplicação e divisão. Peça ao usuário para escolher uma opção e realizar a operação correspondente com dois números fornecidos.
+7. Escreva um programa que use um loop for para imprimir os números de 1 a 100. Para múltiplos de 3, imprima "Fizz" e para múltiplos de 5 imprima "Buzz". Para números que são múltiplos de 3 e 5, imprima "FizzBuzz".
+8. Escreva um programa que leia um número inteiro e imprima todos os seus divisores usando um loop while.
+9. Escreva um programa que use um loop while e break para encontrar o primeiro número primo maior que um número inteiro fornecido pelo usuário.
+10. Escreva um programa que leia um número inteiro e verifique se ele é um número primo usando um loop for e break.

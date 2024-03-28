@@ -1,0 +1,3 @@
+C:/Users/Kleber/Desktop/banco/cmake-build-debug/CMakeFiles/banco.dir
+C:/Users/Kleber/Desktop/banco/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kleber/Desktop/banco/cmake-build-debug/CMakeFiles/rebuild_cache.dir
